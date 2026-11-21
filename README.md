@@ -7,7 +7,7 @@ Hi! I'm Angela, a Grade 9 student from section Arayat. I enjoy sketching and pla
 ## Aaron Gener Tapao
 Hello! I'm Aaron, and I'm class number 15 from section Arayat and I like to play Volleyball with my friends.
 
-## Emman Gusad
-Hey there! I'm [Name]. Outside of class, I like [hobbies/interests], and I'm excited to collaborate with the group in CS3 this quarter. ==> No output yet.
+## Emmanuel Gusad
+Hey there! I'm Emmanuel. Outside of class, I like gaming and chess, and I'm excited to collaborate with the group in CS3 this quarter.
 
 
